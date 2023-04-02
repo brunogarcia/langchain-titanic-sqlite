@@ -1,4 +1,4 @@
-# Research LangChain with the Titanic SQLite Database
+# Research: LangChain, Titanic SQLite Database, and the API of OpenAI
 
 The main goal of this Jupyter Notebook is to use the Titanic SQLite database to explore the [LangChain](https://python.langchain.com/) library and the API of [OpenAI](https://openai.com/).
 
@@ -40,7 +40,7 @@ After the configuration the agent is able to answer the following questions:
 7. How many siblings/spouses aboard on average, by passenger class? By survival?
 8. How many parents/children aboard on average, by passenger class? By survival?
 
-## Example #1: How many passengers survived?
+### Example #1: How many passengers survived?
 
 ```python
 > Entering new SQLDatabaseChain chain...
@@ -56,7 +56,7 @@ Answer: 342 passengers survived.
 ' 342 passengers survived.'
 ```
 
-## Example #2: How many passengers were in each class?
+### Example #2: How many passengers were in each class?
 
 ```python
 > Entering new SQLDatabaseChain chain...
