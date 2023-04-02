@@ -1,6 +1,6 @@
 # Research LangChain with the Titanic SQLite Database
 
-The main goal of this notebook is to use the Titanic SQLite database to explore the [LangChain](https://python.langchain.com/) library.
+The main goal of this Jupyter Notebook is to use the Titanic SQLite database to explore the [LangChain](https://python.langchain.com/) library and the API of [OpenAI](https://openai.com/).
 
 I'm using the [SQL Database Agent](https://python.langchain.com/en/latest/modules/agents/toolkits/examples/sql_database.html) of LangChain in order to interact with the database in a natural language way.
 
